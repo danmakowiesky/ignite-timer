@@ -31,7 +31,6 @@ export function Home() {
   })
 
   function handleCreateNewCycle(data: NewCycleFormData) {
-    console.log(data)
     reset()
   }
 
